@@ -1,0 +1,116 @@
+@charset "utf-8";
+	.st0
+{
+	background : #57D0CC;
+	background : rgba(87, 208, 204, 1);
+	position : absolute ;
+	left : 99px;
+	top : 480px;
+	width : 214px;
+	height : 286px;
+	border-radius : 0px;
+	-moz-border-radius : 0px;
+	-webkit-border-radius : 0px;
+}
+.st1
+{
+	background : #59B0E0;
+	background : rgba(89, 176, 224, 1);
+	position : absolute ;
+	left : 134px;
+	top : 156px;
+	width : 111px;
+	height : 148px;
+	border-radius : 0px;
+	-moz-border-radius : 0px;
+	-webkit-border-radius : 0px;
+}
+.st2
+{
+	background : -moz-linear-gradient(73.65% 126.02% 119deg,rgba(245, 250, 253, 1) 0%,rgba(195, 226, 244, 1) 100%);
+	background : -webkit-linear-gradient(119deg, rgba(245, 250, 253, 1) 0%, rgba(195, 226, 244, 1) 100%);
+	background : -webkit-gradient(linear,73.65% 126.02% ,26.35% -26.02% ,color-stop(0,rgba(245, 250, 253, 1) ),color-stop(1,rgba(195, 226, 244, 1) ));
+	background : -o-linear-gradient(119deg, rgba(245, 250, 253, 1) 0%, rgba(195, 226, 244, 1) 100%);
+	background : -ms-linear-gradient(119deg, rgba(245, 250, 253, 1) 0%, rgba(195, 226, 244, 1) 100%);
+	-ms-filter: "progid:DXImageTransform.Microsoft.gradient(startColorstr='#F5FAFD', endColorstr='#C3E2F4' ,GradientType=0)";
+	background : linear-gradient(-29deg, rgba(245, 250, 253, 1) 0%, rgba(195, 226, 244, 1) 100%);
+	position : absolute ;
+	left : -4px;
+	top : 0px;
+	width : 1924px;
+	height : 1080px;
+	filter: progid:DXImageTransform.Microsoft.gradient(startColorstr='#F5FAFD',endColorstr='#C3E2F4' , GradientType=1);
+}
+.st3
+{
+	background : #E3F2FA;
+	background : rgba(227, 242, 250, 1);
+	position : absolute ;
+	left : 171px;
+	top : 150px;
+	width : 246px;
+	height : 329px;
+	border-radius : 0px;
+	-moz-border-radius : 0px;
+	-webkit-border-radius : 0px;
+}
+.st4
+{
+	background : #E3F2FA;
+	background : rgba(227, 242, 250, 1);
+	position : absolute ;
+	left : 222px;
+	top : 332px;
+	width : 285px;
+	height : 381px;
+	border-radius : 0px;
+	-moz-border-radius : 0px;
+	-webkit-border-radius : 0px;
+}
+.image2
+{
+	background-image : url(image2.png);
+	background-repeat : no-repeat;
+	position : absolute ;
+	left : 1062px;
+	top : -918px;
+	width : 1440px;
+	height : 860px;
+}
+.image3
+{
+	background-image : url(image3.png);
+	background-repeat : no-repeat;
+	position : absolute ;
+	left : -60px;
+	top : -897px;
+	width : 564px;
+	height : 721px;
+}
+.image1
+{
+	background-image : url(image1.png);
+	background-repeat : no-repeat;
+	position : absolute ;
+	left : 1476px;
+	top : 42px;
+	width : 400px;
+	height : 260px;
+}
+.image
+{
+	background-image : url(image.png);
+	background-repeat : no-repeat;
+	position : absolute ;
+	left : 2095px;
+	top : 130px;
+	width : 1440px;
+	height : 860px;
+}
+.NormalCharacterStyle
+{
+	font-family : DynamicsOCR2;
+	font-size : 111px;
+	color : #3DA0D9;
+	color : rgb(61, 160, 217);
+}
